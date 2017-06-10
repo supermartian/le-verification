@@ -7,6 +7,7 @@ Below resources are sorted by my own learning steps, which I found might be effi
 ## Useful courses
 
 - MIT 6.887, Formal Reasoning About Programs: https://frap.csail.mit.edu/main
+- CMU 15-818A3, Introduction to Separation Logic: https://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox-19/member/jcr/www15818As2011/cs818A3-11.html
 
 ## Automatic therom prover and the basics of proving software (Coq)
 
